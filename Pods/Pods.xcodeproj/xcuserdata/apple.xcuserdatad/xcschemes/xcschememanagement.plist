@@ -4,19 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>StopWatch.xcscheme_^#shared#^_</key>
+		<key>Pods-StopWatch.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>9FEF1CF51C3A23BC00B2C64E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>
